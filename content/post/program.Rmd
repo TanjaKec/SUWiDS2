@@ -17,7 +17,7 @@ On the **22nd of April, 2020** Subotica is joining the international conference 
 
 Our program contains a talks and workshops by data scientists and a panel discussion with women in data science focusing mainly on diversity and mentorship. 
 
-#### The event is free, but registration is required by ...[link to a google form?]()
+#### The event is free, but registration is required by [link to a google form?]()
 
 #### DETAILED programe is coming soon.
 
