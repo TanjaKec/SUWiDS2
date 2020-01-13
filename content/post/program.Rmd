@@ -33,10 +33,11 @@ Tijana holds a Master’s degree in Politics, Big Data and Quantitative Methods 
 
 Bojana is the Data Analyst at [Content Insights](https://contentinsights.com). She has a Masters in Applied Mathematics. She has studyed Financial Mathematics at the [University of Novi Sad](http://www.uns.ac.rs/index.php/en/). Her field of interest is Data Science. She deals with data visualization, lab research, big data, mathematical modeling, statistics, data analysis and optimisation. Her favorite software is R and she really likes to share her experience with other people who love data science. She is a member of the [R-Ladies Novi Sad](https://www.meetup.com/rladies-novi-sad/) chapter.
 
+- **[Anđela Milivojević](https://www.linkedin.com/in/andjela-milivojevic/)**
+
 - **[Jovana Savić](https://www.linkedin.com/in/jovana-savić-12aa305a/)**: "title and abstract"
 
-Jovana... bio
-
+Jovana is an experienced Business Intelligence Developer with a demonstrated history of working in the information technology and services industry. Her activities have been mainly focused on ensuring data quality throughout entire ETL process as well as using data and sophisticated analytics tools to understand customers needs and help them to reach their financial goals. She has Master's degree in Information systems from [Faculty of Organizational Sciences](http://www.fon.bg.ac.rs) at [the University of Belgrade](http://www.bg.ac.rs). Jovana is a big R language enthusiast, a coorganiser and active member of the [R-Ladies Belgrade](https://www.meetup.com/rladies-belgrade/) chapter.
 
 
 ### Workshops
