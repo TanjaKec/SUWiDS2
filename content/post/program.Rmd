@@ -35,6 +35,8 @@ Bojana is the Data Analyst at [Content Insights](https://contentinsights.com). S
 
 - **[Anđela Milivojević](https://www.linkedin.com/in/andjela-milivojevic/)**
 
+Anđela... bio
+
 - **[Jovana Savić](https://www.linkedin.com/in/jovana-savić-12aa305a/)**: "title and abstract"
 
 Jovana is an experienced Business Intelligence Developer with a demonstrated history of working in the information technology and services industry. Her activities have been mainly focused on ensuring data quality throughout entire ETL process as well as using data and sophisticated analytics tools to understand customers needs and help them to reach their financial goals. She has Master's degree in Information systems from [Faculty of Organizational Sciences](http://www.fon.bg.ac.rs) at [the University of Belgrade](http://www.bg.ac.rs). Jovana is a big R language enthusiast, a coorganiser and active member of the [R-Ladies Belgrade](https://www.meetup.com/rladies-belgrade/) chapter.
@@ -48,7 +50,7 @@ Jelena... bio
 
 - **[Olivera Grljević](https://www.linkedin.com/in/olivera-grljević-3842b516/)**: "title and abstract"
 
-Olivera... bio
+Olivera is an assistant professor at [the Faculty of Economics in Subotica](https://www.uns.ac.rs/index.php/en/faculties/ffaculties/faculty-economics), [University of Novi Sad](http://www.uns.ac.rs/index.php/en/). Her research interests are focused on sentiment analysis, text mining and data mining. Her current research projects include application of machine learning and data mining towards the extraction of business knowledge from unstructured data and development of resources for natural language processing for the Serbian language. She has participated in 8 research projects and authored more than 50 scientific or professional papers. Her most recent publication is "The linguistic construction of sentiment expressions in student opinionated content: a corpus-based study".
 
 
 ### Panel Discussion: Shifting the gender balance in STEM
