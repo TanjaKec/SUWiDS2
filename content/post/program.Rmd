@@ -30,6 +30,20 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 ### Speakers
 
+<p></p>
+
+#### Key Note Speaker
+
+<p></p>
+
+- **[Dina Dicic](https://www.linkedin.com/in/dina-dicic-0406479a/)**: "title and abstract"
+
+**Dina Dicic** *... bio* 
+
+#### Regular Talks
+
+<p></p>
+
 - **[Tijana Blagojev](https://www.linkedin.com/in/tijana-blagojev-288b3442/)**: "title and abstract"
 
 **Tijana Blagojev** *holds a Master’s degree in Politics, Big Data and Quantitative Methods from the [University of Warwick](https://warwick.ac.uk). She is also a recipient of renowned [Chevening](https://www.chevening.org) scholarship that provided her with the opportunity to study in the UK. She absolutely loves R and wants to share her knowledge with people and students in Serbia. She is a coorganiser of [R-ladies Belgrade](https://www.meetup.com/rladies-belgrade/) chapter.* 
@@ -50,7 +64,13 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 **Tijana Dragojević** *... bio*
 
+- **[Marija (Pupić) Drašković](https://www.linkedin.com/in/marija-dra%C5%A1kovi%C4%87-27a13a44/)**: "title and abstract"
+
+**Marija (Pupić) Drašković** *... bio* WiDS Croatia
+
 #### Lightning Talks:
+
+<p></p>
 
 - **[Jovana Savić](https://www.linkedin.com/in/jovana-savić-12aa305a/)**: "title and abstract"
 
