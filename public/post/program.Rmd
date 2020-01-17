@@ -60,9 +60,9 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 **Željana Grbović** *... bio*
 
-- **[Tijana Dragojević](https://www.linkedin.com/in/tijana-dragojevi%C4%87-9715a6152/)**: "title and abstract"
+- **[Tijana Dragojević](https://www.linkedin.com/in/tijana-dragojevi%C4%87-9715a6152/)**: Applying regression analysis to predict salaries: [Addiko bank](https://www.addiko.rs/) use case
 
-**Tijana Dragojević** *... bio*
+**Tijana Dragojević** *Tijana is Data Scientist at [Things Solver](https://thingsolver.com/). Her main responsibilities include applying data mining techniques, doing statistical analysis and building prediction models such as customer and product segmentation, classification and regression models in retail, insurance and banking. She has a Master's degree in information systems and technology. She is enthusiastic to share her knowledge and develop skills in Data Science.*
 
 - **[Marija (Pupić) Drašković](https://www.linkedin.com/in/marija-dra%C5%A1kovi%C4%87-27a13a44/)**: "title and abstract"
 
