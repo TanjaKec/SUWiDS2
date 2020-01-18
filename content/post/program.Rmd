@@ -58,7 +58,7 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 - **[Željana Grbović](https://www.linkedin.com/in/zeljana-grbovic-a73a55105/)**: "title and abstract"
 
-**Željana Grbović** *... bio*
+**Željana Grbović** *is a young researcher at [BioSense Institute](https://biosens.rs/?page_id=6597&lang=en) and PhD student in electrical engineering at [the University of Novi Sad](http://www.uns.ac.rs/index.php/en/). She is highly interested in the application of machine learning algorithms and deep learning in the field of agriculture. She has expanded the field experiment on the wheat involving images from mobile phones to provide early prediction yield and automatic counted ears. Her main interests are image processing and application of transfer deep learning in plant phenotyping, food quality and safety. She is actively involved in few [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/sites/horizon2020/files/H2020_inBrief_EN_FinalBAT.pdf) projects including [ANTARES](ANTARES, Cybele and Dragon), [Cybele](https://www.cybele-project.eu) and Dragon.*
 
 - **[Tijana Dragojević](https://www.linkedin.com/in/tijana-dragojevi%C4%87-9715a6152/)**: Applying regression analysis to predict salaries: [Addiko bank](https://www.addiko.rs/) use case
 
