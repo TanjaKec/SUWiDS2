@@ -763,6 +763,8 @@ body.nav-opened .nav {
 .blog-logo {
     display: block;
     float: left;
+    max-width: 100%;
+    height: auto !important;
     background: none !important;
     border: none !important;
 }

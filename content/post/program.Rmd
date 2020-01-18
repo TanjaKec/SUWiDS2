@@ -13,7 +13,7 @@ image: ''
 menu: ''
 share: yes
 ---
-On the **22nd of April, 2020** Subotica is joining the international conference [WiDS](https://www.widsconference.org). The [Women in Data Science (WiDS)](https://www.widsconference.org) initiative aims to inspire and educate data scientists worldwide, regardless of gender, and support women in the field. WiDS started as a conference at Stanford in November 2015. Now, <span style="color:green">**WiDS**</span> includes a global conference, with 150+ regional events worldwide including a [datathon](https://www.widsconference.org/datathon.html) (encouraging participants to hone their skills) and a [podcast](https://www.widsconference.org/podcast.html) (featuring leaders in the field talking about their work, and their journeys). 
+On the **22nd of April, 2020** <span style="color:green">**Subotica**</span> is joining the international conference [WiDS](https://www.widsconference.org). The [Women in Data Science (WiDS)](https://www.widsconference.org) initiative aims to inspire and educate data scientists worldwide, regardless of gender, and support women in the field. WiDS started as a conference at Stanford in November 2015. Now, <span style="color:green">**WiDS**</span> includes a global conference, with 150+ regional events worldwide including a [datathon](https://www.widsconference.org/datathon.html) (encouraging participants to hone their skills) and a [podcast](https://www.widsconference.org/podcast.html) (featuring leaders in the field talking about their work, and their journeys). 
 
 All genders are invited to attend <span style="color:green">**WiDS**</span> regional events, which feature outstanding women within the DS community. <span style="color:green">**WiDS Subotica**</span> welcomes anyone with an interest in DS. The goal is to promote DS, exchange knowledge and create a DS community among women. We are fully inclusive and respectful of LGBT identities and are welcome anyone interested in the field of DS. 
 
@@ -64,6 +64,10 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 **Tijana Dragojević** *Tijana is Data Scientist at [Things Solver](https://thingsolver.com/). Her main responsibilities include applying data mining techniques, doing statistical analysis and building prediction models such as customer and product segmentation, classification and regression models in retail, insurance and banking. She has a Master's degree in information systems and technology. She is enthusiastic to share her knowledge and develop skills in Data Science.*
 
+- **[Stojanka Dakić](https://www.linkedin.com/in/stojanka-daki%C4%87-326175178/)**: Analysis of gender differences in the Serbian labor market
+
+**Stojanka Dakić** *is an assistant professor at [the Faculty of Economics in Subotica](https://www.uns.ac.rs/index.php/en/faculties/ffaculties/faculty-economics), [University of Novi Sad](http://www.uns.ac.rs/index.php/en/). Her fields of interest are quantitative economics, statistics and labour market. She teaches Statistics, Business Statistics and Multivariate Statistical Methods. She is an author of more than 20 scientific papers. She participates in two ERASMUS projects: PT&SCHE (Introduction of part-time and short cycle studies in Serbia: challenges and opportunities) and ADA (Advanced Data Analytics in Business).*
+
 - **[Marija (Pupić) Drašković](https://www.linkedin.com/in/marija-dra%C5%A1kovi%C4%87-27a13a44/)**: "title and abstract"
 
 **Marija (Pupić) Drašković** *... bio* WiDS Croatia
@@ -71,6 +75,10 @@ Our programme contains talks and workshops by data scientists and a panel discus
 #### Lightning Talks:
 
 <p></p>
+
+- **[Radimila Velichkovich](https://www.linkedin.com/in/radmila-velichkovich/)**: "title and abstract"
+
+**Radimila Velichkovich** *...bio*
 
 - **[Jovana Savić](https://www.linkedin.com/in/jovana-savić-12aa305a/)**: "title and abstract"
 
@@ -82,7 +90,7 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 ### Workshops
 
-- **[Jelena Joksimović](https://www.linkedin.com/in/jelenajoksimovic92/)**: "title and abstract"
+- **[Jelena Joksimović](https://www.linkedin.com/in/jelenajoksimovic92/)**: "Data driven decision making in startup"
 
 **Jelena Joksimović** *... bio*
 
