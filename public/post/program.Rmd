@@ -76,13 +76,23 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 **Aleksandra Marcikic Horvat** *currently works as an Assistant Professor at [the Faculty of Economics in Subotica](https://www.uns.ac.rs/index.php/en/faculties/ffaculties/faculty-economics), [University of Novi Sad](http://www.uns.ac.rs/index.php/en/). Her main fields of interest are Operations Research, Multi-criteria Decision Making and Forecasting. She is an author of one textbook and more than 70 scientific papers. Currently, she is engaged in [the ERASMUS+ project “Advanced Data Analytics in Business - ADA”](http://www.ada.ac.rs).*
 
+- **[Jelena Kleut](https://www.linkedin.com/in/jelena-kleut-a563756/)**: Discourses from/on big data in journalistic practice
+
+*<span style="color:gray">This presentation critically considers the role of big data in journalism, observing it from two inter-related perspectives: as news stories and discourses arising from journalistic work on big data, and as professional discourses, norms and values guiding the journalistic practice of data gathering and processing. The presentation looks into how journalists transform big data into narratives to be interpreted by the audience and in doing so how they connect digital storytelling tools with the professional journalistic cultures.</span>*
+
+- **Jelena Kleut** *...bio*
+
 - **[Anđela Milivojević](https://www.linkedin.com/in/andjela-milivojevic/)**: "title and abstract"
 
 **Anđela Milivojević** *... is a journalist*
 
-- **[Bojana Soro](https://www.linkedin.com/in/bojana-soro-73ba65131/)**: "title and abstract"
+- **[Bojana Soro](https://www.linkedin.com/in/bojana-soro-73ba65131/)**: Content intelligence that informs content optimisations
 
 **Bojana Soro** *is the Data Analyst at [Content Insights](https://contentinsights.com). She has a Masters in Applied Mathematics. She has studyed Financial Mathematics at the [University of Novi Sad](http://www.uns.ac.rs/index.php/en/). Her field of interest is Data Science. She deals with data visualization, lab research, big data, mathematical modeling, statistics, data analysis and optimisation. Her favorite software is R and she really likes to share her experience with other people who love data science. She is a member of the [R-Ladies Novi Sad](https://www.meetup.com/rladies-novi-sad/) chapter.*
+
+- **[Ljubica Vujović](https://www.linkedin.com/in/ljubica-vujovic-2375a885/)**: "title and abstract"
+
+**Ljubica Vujović** *... bio*
 
 
 #### Lightning Talks:
@@ -93,6 +103,9 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 **Aleksandra Đurović** *... bio*
 
+- **[Jelena Nadj](https://www.linkedin.com/in/jelena-nadj-94156926/)**:"title and abstract" 
+
+**Jelena Nadj** *is a data scientist at Symphony, a full-stack software company with fully integrated teams that work on augmented reality, biotechnology, machine learning and more. For the past year, she has been working as a consultant data scientist in a startup where she is working on experiment design and analysis, building/deploying ML models. Previously, Jelena worked as a bioinformatics analyst at a leading biomedical data company, specializing in software and data analytics for drug discovery. She has a joint masters degree in data science from Skolkovo Institute of Science and Technology in Moscow and Massachusetts Institute of Technology.*
 
 - **[Dragana Jovčić](https://www.linkedin.com/in/dragana-jovčić/)**: "title and abstract"
 
