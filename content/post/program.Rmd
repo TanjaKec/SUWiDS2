@@ -32,13 +32,17 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 <p></p>
 
-#### Key Note Speaker
+#### Key Note Speakers
 
 <p></p>
 
 - **[Dina Dicic](https://www.linkedin.com/in/dina-dicic-0406479a/)**: "title and abstract"
 
 **Dina Dicic** *... bio* 
+
+- **[Maria Knorps](https://www.linkedin.com/in/maria-knorps/)**: Challenges of "small data"
+
+**Maria Knorps** is a Data Scientist creating analytics, BI and machine learning solutions from the data collection to the web development. She combines scientific background (PhD in fluid mechanics) with several years of industry experience. Maria believes that simple solutions and clean code are at the center of well-designed applications, thus the growing interest in functional programming.
 
 #### Regular Talks
 
