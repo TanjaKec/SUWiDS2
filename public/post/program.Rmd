@@ -124,7 +124,11 @@ Students:
 
 - **[Jelena Joksimović](https://www.linkedin.com/in/jelenajoksimovic92/)**: Data driven decision making in startup
 
-**Jelena Joksimović** *... bio*
+**Jelena Joksimović** *has graduated at the [Faculty of Mathematics](http://www.matf.bg.ac.rs/eng/) and received her master's degree in Mathematics (Mathematical statistics and Probability) at [the University of Belgrade](http://www.bg.ac.rs/). She is currently PhD student at [FIŠ](https://www.fis.unm.si/en/) in the field of Data Science, where she studies the dynamics of financial systems in Slovenia and globally.*
+ 
+*After completing her undergraduate studies, she began working on a project that has grown into a successful start-up business, [Uradi-zaradi](https://uradi-zaradi.rs/). At that time, in parallel with her work on the project, she was employed in the IT sector of [Banka Intesa](https://www.bancaintesa.rs/pocetna.1.html), where she gained experience in working with big data and fell in love with data analytics and reporting.  However, with the expansion of her startup Jelena takes the risk and becomes a full-time entrepreneur. [Uradi-zaradi](https://uradi-zaradi.rs/) now employs other people and has a lot potential for further growth and expansion to other markets. Jelena's current role there is focused on marketing and strategic development, business analysis and testing new ideas for improvement and problem solving.*
+ 
+*Jelena's love is entrepreneurship, data and sharing in general. In free time, she tries to inspire other women to create a big picture of their big potential and power in this world*
 
 - **[Olivera Grljević](https://www.linkedin.com/in/olivera-grljević-3842b516/)**: Introduction to Sentiment Analysis
 
