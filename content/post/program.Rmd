@@ -36,13 +36,15 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 <p></p>
 
-- **[Dina Dicic](https://www.linkedin.com/in/dina-dicic-0406479a/)**: "title and abstract"
+- **[Dina Dicic](https://www.linkedin.com/in/dina-dicic-0406479a/)**: Data Driven Life - impact of data driven decisions in everyday life as well as your business
 
-**Dina Dicic** *... bio* 
+**Dina Dicic** *holds a master’s degree in Mathematics from [Idaho State University](https://www.isu.edu). She worked in academics 4 years, teaching statistics at ISU, before she transitioned to industry. She has 10 years of experience working in various industries as data analyst. Currently she is leading a Data Team and is a Senior Manager for Retail Business at [GroundLink](https://www.groundlink.com).* 
 
 - **[Maria Knorps](https://www.linkedin.com/in/maria-knorps/)**: Challenges of "small data"
 
 **Maria Knorps** is a Data Scientist creating analytics, BI and machine learning solutions from the data collection to the web development. She combines scientific background (PhD in fluid mechanics) with several years of industry experience. Maria believes that simple solutions and clean code are at the center of well-designed applications, thus the growing interest in functional programming.
+
+**Maria Knorps** *... bio* 
 
 #### Regular Talks
 
@@ -60,9 +62,9 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 - **[Tijana Dragojević](https://www.linkedin.com/in/tijana-dragojevi%C4%87-9715a6152/)**: Applying regression analysis to predict salaries: [Addiko bank](https://www.addiko.rs/) use case
 
-**Tijana Dragojević** *Tijana is Data Scientist at [Things Solver](https://thingsolver.com/). Her main responsibilities include applying data mining techniques, doing statistical analysis and building prediction models such as customer and product segmentation, classification and regression models in retail, insurance and banking. She has a Master's degree in information systems and technology. She is enthusiastic to share her knowledge and develop skills in Data Science.*
+**Tijana Dragojević** *is Data Scientist at [Things Solver](https://thingsolver.com/). Her main responsibilities include applying data mining techniques, doing statistical analysis and building prediction models such as customer and product segmentation, classification and regression models in retail, insurance and banking. She has a Master's degree in information systems and technology. She is enthusiastic to share her knowledge and develop skills in Data Science.*
 
-- **[Marija Drašković](https://www.linkedin.com/in/marija-dra%C5%A1kovi%C4%87-27a13a44/)**: "title and abstract"
+- **[Marija Drašković](https://www.linkedin.com/in/marija-dra%C5%A1kovi%C4%87-27a13a44/)**: Data monetisation
 
 **Marija Drašković** *... bio* [WiDS Zagreb 2020](https://www.widsconference.org/ambassadors-2020.html) 
 
@@ -114,6 +116,10 @@ Our programme contains talks and workshops by data scientists and a panel discus
 - **[Jovana Savić](https://www.linkedin.com/in/jovana-savić-12aa305a/)**: Bringing Data to Life
 
 **Jovana Savić** *is an experienced Business Intelligence Developer with a demonstrated history of working in the information technology and services industry. Her activities have been mainly focused on ensuring data quality throughout entire ETL process as well as using data and sophisticated analytics tools to understand customers needs and help them to reach their financial goals. She has Master's degree in Information systems from [Faculty of Organizational Sciences](http://www.fon.bg.ac.rs) at [the University of Belgrade](http://www.bg.ac.rs). Jovana is a big R language enthusiast, a coorganiser and active member of the [R-Ladies Belgrade](https://www.meetup.com/rladies-belgrade/) chapter.*
+
+- **[Jelena Slivka](https://www.linkedin.com/in/jelena-slivka-a9b80a6/)**: "title and abstract"
+
+**Jelena Slivka** *... bio*
 
 - **[Radimila Velichkovich](https://www.linkedin.com/in/radmila-velichkovich/)**: Juggle the tools to respond to the clients' needs
 
@@ -174,16 +180,43 @@ We will discuss how to attract more young girls into STEM programs and how to en
 
 ### Agenda:
 
-- 9:00 – Doors open: registration and refreshments
+08:30	Doors open: registration and refreshments		
+			
+09:00	Welcome to WiDS regional event: Introduction, Announcements		
+			
+09:05	The Global WiDS opening video		
+			
+09:10	**Key Note Speaker: Dina Dincic**		
 
-- 9:40 – Welcome to WiDS regional event: Introduction, Announcements
+09:40	**Applicative DS**
 
-- 9:50 – The Global WiDS opening video
+10:40	Coffee break
 
-- 10:00 - Key Note Speakers
+11:00	**Design, analysis and algorithms**
 
-- 
+12:00	**Data in Journalism** 
 
+13:00	Lunch: poster session
+	
+14:00	**Key Note Speaker: Maria Knorps**
+	
+14:30	**Lightning Talks**
+
+15:30	Coffee break
+	
+15:40	**Work-Shops**
+	
+17:40	**Students’ Presentation**
+	
+18:00	Coffee break
+	
+18:10	**Panel Discussion: Shifting the gender balance in STEM**
+	
+19:10	Closing Talk
+	
+19:15	Informal networking: drinks and a chance to chat
+	
+20:00	The End
 
 ### our sponsors
 ![](/post/program_files/infostud_logo.png){width=30% height=30%}
