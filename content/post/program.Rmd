@@ -101,9 +101,9 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 <p></p>
 
-- **[Aleksandra Đurović](https://www.linkedin.com/in/aleksandra-djurovic-157426111/)**: "title and abstract"
+- **[Aleksandra Đurović](https://www.linkedin.com/in/aleksandra-djurovic-157426111/)**:  At the intersection of psychology and data science 
 
-**Aleksandra Đurović** *... bio*
+**Aleksandra Đurović** *is a Research Coordinator in Belgrade Open School, an educational civil society organization from Belgrade. She coordinates implementation of research activities relevant to public policies in various fields such as education, citizens’ participation and environment. She holds a Master’s degree in Psychology from the Faculty of Philosophy at the University of Belgrade. She loves working with data and has recently become a member of the R-Ladies Belgrade chapter.*
 
 - **[Jelena Nadj](https://www.linkedin.com/in/jelena-nadj-94156926/)**:"title and abstract" 
 
