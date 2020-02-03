@@ -22,11 +22,98 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 **Valentina Đorđević** *is a passionate Data Science enthusiast. Her focus of studying includes time series analysis and anomaly detection techniques. As a Data Scientist at [Things Solver](https://thingsolver.com/), she’s been working on various Data Science problems coming from different business domains, from telecommunications to retail, finance and banking, where she’s dealing with forecasting, predictive maintenance, anomaly detection, segmentation, churn prediction, lead generation, lead scoring, etc. There's nothing she loves more than sharing her knowledge, and letting it grow through the interaction with others.*
 
-#### <span style="color:orangered">The event is free, but registration is required by [... link to a google form?]()</span>
 
-#### <span style="color:blue">DETAILED programme is coming soon.</span>
 
-###
+#### <span style="color:orangered">The event is free, but registration is required by [filling this form](https://docs.google.com/forms/d/1KMrJAVv4yma2iSsQN-H8LxOnWJL47u9HFNHXYd7pTWk/edit?ts=5e3400d1)</span>
+
+
+
+> #### <span style="color:blue">Programme </span>
+>
+><span style="color:blue">08:30</span>	Doors open: registration and refreshments	
+>		
+><span style="color:blue">09:00</span>	Welcome to WiDS regional event: Introduction, Announcements	
+>		
+><span style="color:blue">09:05</span>	The Global WiDS opening video	
+>		
+><span style="color:blue">09:10</span>	**Key Note Speaker:** [Dina Dicic](https://www.linkedin.com/in/dina-dicic-0406479a/)	
+>		
+><span style="color:blue">09:40</span>	**Applicative DS**	
+>
+>	- [Agnieszka Kamińska](https://www.linkedin.com/in/agnieszka-kaminska-ds/)
+>	- [Stojanka	Dakić](https://www.linkedin.com/in/stojanka-daki%C4%87-326175178/)
+>	- [Marija Drašković](https://www.linkedin.com/in/marija-dra%C5%A1kovi%C4%87-27a13a44/)
+>	- [Aleksandra Marcikic Horvat](https://www.linkedin.com/in/aleksandra-marcikic-horvat-8167021a0/)
+>		
+><span style="color:blue">11:00</span>	Coffee break	
+>		
+><span style="color:blue">11:10</span>	**Design, analysis and alogorithms**	
+>
+> - [Tijana Dragojević](https://www.linkedin.com/in/tijana-dragojevi%C4%87-9715a6152/)
+>- [Željana Grbović](https://www.linkedin.com/in/zeljana-grbovic-a73a55105/)
+>- [Bojana	Soro](https://www.linkedin.com/in/bojana-soro-73ba65131/)
+>		
+><span style="color:blue">12:10</span>	**Data in Journalism** 
+>
+>	- [Tijana Blagojev](https://www.linkedin.com/in/tijana-blagojev-288b3442/)
+>- [Jelena Kleut](https://www.linkedin.com/in/jelena-kleut-a563756/)
+>- [Anđela	Milivojević](https://www.linkedin.com/in/andjela-milivojevic/)
+>		
+><span style="color:blue">13:10</span>	Lunch: **poster session**	
+>		
+><span style="color:blue">14:00</span>	**Key Note Speaker:** [Maria Knorps](https://www.linkedin.com/in/maria-knorps/)	
+>		
+><span style="color:blue">14:30</span>	**Lightning Talks**	
+>
+> -	[Jelena Nadj](https://www.linkedin.com/in/jelena-nadj-94156926/)
+>- [Aleksandra Đurović](https://www.linkedin.com/in/aleksandra-djurovic-157426111/)
+>- [Dragana Jovčić](https://www.linkedin.com/in/dragana-jovčić/)
+>- [Jovana	Savić](https://www.linkedin.com/in/jovana-savić-12aa305a/)
+>- [Jelena Slivka](https://www.linkedin.com/in/jelena-slivka-a9b80a6/)
+>- [Radimila	Velichkovich](https://www.linkedin.com/in/radmila-velichkovich/)
+>		
+><span style="color:blue">15:30</span>	Coffee break	
+>		
+><span style="color:blue">15:45</span>	**Work-Shops:**
+>
+> - **Data driven decision making in startup** by [Jelena Joksimović](https://www.linkedin.com/in/jelenajoksimovic92/)
+>	
+>	or
+>	
+> - **Introduction to Sentiment Analysis** by [Olivera Grljević](https://www.linkedin.com/in/olivera-grljević-3842b516/)
+>
+><span style="color:blue">17:45</span>	**Students’ Presentation**	
+>
+> - [Jovana Adamov]() 
+> - [Tamara Dragojević]() 
+> - [Aleksandar Rajić]() 
+> - [Olivera Pavlović]()
+>		
+><span style="color:blue">18:00</span>	Coffee break	
+>		
+><span style="color:blue">18:15</span>	**Panel Discussion:** *Shifting the gender balance in STEM*	
+>
+> - ##### moderator: 
+> **[Katarina Kosmina](https://www.linkedin.com/in/kosmina/)**
+>
+> - ##### Panelists:
+>  - **[Agnieszka Kamińska](https://www.linkedin.com/in/agnieszka-kaminska-ds/)**
+>
+>  - **[Natali Delić](https://www.linkedin.com/in/slavica-ranisavljev-kova%C4%8Dev-15a89722/)**
+>
+>  - **[Slavica Ranisavljev Kovačev](https://www.linkedin.com/in/slavica-ranisavljev-kova%C4%8Dev-15a89722/)**
+>
+>  - **[Marija Drašković](https://www.linkedin.com/in/marija-dra%C5%A1kovi%C4%87-27a13a44/)** [WiDS Zagreb 2020](https://www.widsconference.org/ambassadors-2020.html) 
+>
+> - **[Pamela Praščević](https://www.linkedin.com/in/pamela-prascevic/)** via video link from [Kragujevac](https://www.kragujevac.rs/). 
+>
+>
+><span style="color:blue">19:15</span>	Closing Talk	
+>		
+><span style="color:blue">19:20</span>	Informal networking: drinks and a chance to chat	
+>		
+><span style="color:blue">20:00</span>	The End	
+
 
 ### Speakers
 
@@ -74,7 +161,7 @@ Our programme contains talks and workshops by data scientists and a panel discus
 
 **Željana Grbović** *is a young researcher at [BioSense Institute](https://biosens.rs/?page_id=6597&lang=en) and PhD student in electrical engineering at [the University of Novi Sad](http://www.uns.ac.rs/index.php/en/). She is highly interested in the application of machine learning algorithms and deep learning in the field of agriculture. She has expanded the field experiment on the wheat involving images from mobile phones to provide early prediction yield and automatic counted ears. Her main interests are image processing and application of transfer deep learning in plant phenotyping, food quality and safety. She is actively involved in few [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/sites/horizon2020/files/H2020_inBrief_EN_FinalBAT.pdf) projects including [ANTARES](ANTARES, Cybele and Dragon), [Cybele](https://www.cybele-project.eu) and Dragon.*
 
-- **[Aleksandra Marcikic Horvat]()**: Challenges of Modelling in Healthcare
+- **[Aleksandra Marcikic Horvat](https://www.linkedin.com/in/aleksandra-marcikic-horvat-8167021a0/)**: Challenges of Modelling in Healthcare
 
 **Aleksandra Marcikic Horvat** *currently works as an Assistant Professor at [the Faculty of Economics in Subotica](https://www.uns.ac.rs/index.php/en/faculties/ffaculties/faculty-economics), [University of Novi Sad](http://www.uns.ac.rs/index.php/en/). Her main fields of interest are Operations Research, Multi-criteria Decision Making and Forecasting. She is an author of one textbook and more than 70 scientific papers. Currently, she is engaged in [the ERASMUS+ project “Advanced Data Analytics in Business - ADA”](http://www.ada.ac.rs).*
 
@@ -176,47 +263,6 @@ We will discuss how to attract more young girls into STEM programs and how to en
 - R-Ladies NS
 
 - R-Ladies NI
-
-
-### Agenda:
-
-08:30	Doors open: registration and refreshments		
-			
-09:00	Welcome to WiDS regional event: Introduction, Announcements		
-			
-09:05	The Global WiDS opening video		
-			
-09:10	**Key Note Speaker: Dina Dincic**		
-
-09:40	**Applicative DS**
-
-10:40	Coffee break
-
-11:00	**Design, analysis and algorithms**
-
-12:00	**Data in Journalism** 
-
-13:00	Lunch: poster session
-	
-14:00	**Key Note Speaker: Maria Knorps**
-	
-14:30	**Lightning Talks**
-
-15:30	Coffee break
-	
-15:40	**Work-Shops**
-	
-17:40	**Students’ Presentation**
-	
-18:00	Coffee break
-	
-18:10	**Panel Discussion: Shifting the gender balance in STEM**
-	
-19:10	Closing Talk
-	
-19:15	Informal networking: drinks and a chance to chat
-	
-20:00	The End
 
 ### our sponsors
 ![](/post/program_files/infostud_logo.png){width=30% height=30%}
