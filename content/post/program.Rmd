@@ -94,7 +94,7 @@ All genders are invited to attend <span style="color:green">**WiDS**</span> regi
 ---
 
 ### our partner
-![](/post/program_files/infostud_logo.png){width=30% height=30%}
+[![](/post/program_files/infostud_logo.png){width=30% height=30%}](https://www.infostud.com/)
 
 `Photography by` [**Igor Marinović**](https://www.linkedin.com/in/marinowski/)
 
