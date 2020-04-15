@@ -60,11 +60,11 @@ All genders are invited to attend <span style="color:green">**WiDS**</span> regi
 
 ---
 
-- **[Agnieszka Kamińska](https://www.linkedin.com/in/agnieszka-kaminska-ds/)**: Title
+- **[Agnieszka Kamińska](https://www.linkedin.com/in/agnieszka-kaminska-ds/)**: A secret weapon of DS projects. The importance of feature preprocessing on the example of human brain research.
 
-*<span style="color:gray"> Abstract </span>*
+*<span style="color:gray">Regardless of the domain, working with large and complex datasets in order to find reliable and interpretable insights brings a lot of challenges. Building an efficient data processing pipeline can be a demanding task when computational and time resources are limited. Given such context, how can we, data-driven people, find a way to tackle our research or business goals? In this talk I will focus on the critical importance of feature preprocessing - the initial phase of data science projects. I will refer to the group project for The ABCD Neurocognitive Prediction Challenge and a few lessons learned from this competition.</span>*
 
-**Agnieszka Kamińska** *is a Data Scientist...*
+**Agnieszka Kamińska** *is a Data and Science enthusiast. In her everyday work she combines analytical and research skills with machine learning knowledge in order to provide new solutions for Product Analytics purposes in [OLX Group](https://www.olxgroup.com/). Having a background in Cognitive Neuroscience, she is engaged in non-commercial open science projects aimed to develop open source analytical tools for reproducible neuroimaging data science. Agnieszka believes that living in a data-driven world requires building a strong and diverse community of experts understanding the nature of big data and algorithms. She started a chapter of [Women in Machine Learning & Data Science](http://wimlds.org/) in Poland to empower women and other underrepresented people in the field.*
 
 ---
 
