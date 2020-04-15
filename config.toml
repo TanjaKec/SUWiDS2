@@ -1,5 +1,5 @@
 theme = "hugo-theme-air"
-baseURL = "https://suwids2.netlify.com/"
+baseURL = "https://suwids2.netlify.app/"
 languageCode = "en-us"
 title = "Women in DS"
 
@@ -12,7 +12,7 @@ title = "Women in DS"
   author = "Tatjana Kecojevic"
   authorlocation = ""
   authorwebsite = "https://sisteranalyst.org"
-  bio= "my bio"
+  bio = "my bio"
   logo = "images/user.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
