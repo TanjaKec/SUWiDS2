@@ -16,6 +16,25 @@ share: yes
 
 ![](/post/program_files/screenWiDS.jpg){width=100% height=100%}
 
+We held <span style="color:green">**WiDS2020 Subotica**</span> on 29-April-2020 as an online event. It featured outstanding women within the DS community. 
+
+Due to the situation regarding COVID-19 we had to move our even online with the programme containing five presentations by outstanding women directly engaged within the world of data science. 
+
+This year we were aiming to gather a number of women in DS not just from Serbia, but to connect regionally. We were also intending to engage with young women still attending local universities. However, despite not being able to go ahead with our originally planned programme, through this online event we have managed to bring together a number of inspirational women directly engaged with DS with in the region. 
+
+It has certainly motivated and galvanised us and we should build upon this to create a stronger regional community within the global WiDS. It would provide us with the opportunity to outreach to women and young girls in more remote places within the region. Encouraging, inspiring and empowering them on their DS journeys are what we’re all about.  
+
+We sincerely hope that we will meet up next year in a greater number and in happier circumstances.
+
+If you were not able to join us on 29-April you can watch the full recording of the event available here [👉🎦](https://youtu.be/ZcRUppF-qEk). 
+
+
+---
+
+
+![](/post/program_files/wids-black-1line.png){width=100% height=100%}
+
+
 On the **29th of April, 2020** <span style="color:green">**Subotica**</span> is joining the international conference [WiDS](https://www.widsconference.org). The [Women in Data Science (WiDS)](https://www.widsconference.org) initiative aims to inspire and educate data scientists worldwide, regardless of gender, and support women in the field. WiDS started as a conference at Stanford in November 2015. Now, <span style="color:green">**WiDS**</span> includes a global conference, with 150+ regional events worldwide including a [datathon](https://www.widsconference.org/datathon.html) (encouraging participants to hone their skills) and a [podcast](https://www.widsconference.org/podcast.html) (featuring leaders in the field talking about their work, and their journeys). 
 
 All genders are invited to attend <span style="color:green">**WiDS**</span> regional events, which feature outstanding women within the DS community. <span style="color:green">**WiDS Subotica**</span> welcomes anyone with an interest in DS. The goal is to promote DS, exchange knowledge and create a DS community among women. We are fully inclusive and respectful of LGBT identities and are welcome anyone interested in the field of DS. 
